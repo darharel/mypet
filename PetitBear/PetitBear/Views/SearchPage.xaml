@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.SearchPage"             
+             Title="What you need?">
+
+    <ContentPage.Content>
+        <StackLayout>
+
+            <ScrollView Orientation="Horizontal" >
+                <StackLayout Orientation="Horizontal" Spacing="5" Margin="3" >
+                    <!--<Button Text="Pets" x:Name="pets" Style="{StaticResource FollowButton}" />-->
+                    <Button Text="Veterinarians" x:Name="vets" Style="{StaticResource FollowButton}" />
+                    <Button Text="Pensions" x:Name="pensions" Style="{StaticResource FollowButton}" />
+                    <Button Text="Trainers" x:Name="trainers" Style="{StaticResource FollowButton}" />
+                    <Button Text="Food Stores" x:Name="foodStores" Style="{StaticResource FollowButton}" />
+                </StackLayout>
+            </ScrollView>
+
+            <!--The Result StackLayout-->
+            <StackLayout  x:Name="searchResultStack">
+                <StackLayout >
+
+
+                    <!--Location Button-->
+                    <StackLayout Orientation="Horizontal">
+                        <StackLayout HorizontalOptions="Start" VerticalOptions="Center"    >
+                            <Image Source="location.png" WidthRequest="24" Margin="10,0,0,0"></Image>
+                            <StackLayout.GestureRecognizers>
+                                <TapGestureRecognizer x:Name="filterIcon" />
+                            </StackLayout.GestureRecognizers>
+                        </StackLayout>
+
+                        <!--Search Bar-->
+                        <StackLayout HorizontalOptions="Center">
+                            <SearchBar x:Name="searchBar" Placeholder="Search..." PlaceholderColor="Black" />
+                        </StackLayout>
+                    </StackLayout>
+
+                    <!--listview-->
+                    <StackLayout>
+                        <ListView x:Name="listView" HasUnevenRows="True">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <StackLayout Orientation="Horizontal" Padding="5" >
+                                            <Image Source="{Binding ImgURL}" WidthRequest="50"/>
+                                            <StackLayout HorizontalOptions="StartAndExpand">
+                                                <Label Text="{Binding Name}"/>
+                                                <Label Text="{Binding City}"/>
+                                                <Label Text="{Binding Profession}"/>
+                                            </StackLayout>
+                                            <Button Text="Call Now!" HorizontalOptions="End"/>
+                                            <StackLayout>
+                                                <Image Source="dog.png" WidthRequest="50" HeightRequest="50" HorizontalOptions="End"/>
+                                                <Label Text="4.5" Style="{StaticResource ProfileTagLabel}" />
+                                            </StackLayout>
+
+                                        </StackLayout>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

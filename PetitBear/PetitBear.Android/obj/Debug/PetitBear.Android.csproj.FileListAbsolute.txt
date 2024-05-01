@@ -1,0 +1,555 @@
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear.apk
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear-Signed.apk
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.dll
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csprojAssemblyReference.cache
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CoreCompileInputs.cache
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CopyComplete
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.dll
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\bin\com.companyname.PetitBear.apk
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\styles.xml
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\colors.xml
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.cs.flag
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.txt
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\uploadflags.txt
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Android.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\mscorlib.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Core.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Data.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Numerics.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Transactions.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Security.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.Android.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.Android.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear-Signed.apk
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.dll
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CopyComplete
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\bin\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\styles.xml
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\colors.xml
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\search.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\search1.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pow.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\stetuscope.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\dog.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\inject.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\settings.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\home.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\bone.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\medicine.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pillow.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\certificate.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\doctor.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\filter.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\add.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\news.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.cs.flag
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.txt
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\uploadflags.txt
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Android.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\mscorlib.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\SQLite-net.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Core.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Data.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Numerics.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Transactions.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Security.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear-Signed.apk
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.dll
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CopyComplete
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\bin\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\styles.xml
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\colors.xml
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\search.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\search1.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pow.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\stetuscope.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\dog.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\inject.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\settings.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\home.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\bone.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\medicine.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pillow.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\certificate.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\doctor.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\filter.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\add.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\news.png
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.cs.flag
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.txt
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\uploadflags.txt
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Android.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\mscorlib.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\SQLite-net.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Core.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Data.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Numerics.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Transactions.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Security.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\edit.png
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\tools.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear-Signed.apk
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.dll
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CopyComplete
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\bin\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\styles.xml
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\colors.xml
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\search.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\search1.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pow.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\stetuscope.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\dog.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\inject.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\settings.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\home.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\bone.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\medicine.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pillow.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\certificate.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\doctor.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\filter.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\add.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\news.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\edit.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\tools.png
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.cs.flag
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.txt
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\uploadflags.txt
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Android.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Security.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\mscorlib.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\SQLite-net.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Core.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Data.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Numerics.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Transactions.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\SQLite-net.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Core.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Data.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.IO.Compression.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Web.Services.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\location.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\com.companyname.PetitBear-Signed.apk
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.dll
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.csproj.CopyComplete
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\PetitBear.Android.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\android\bin\com.companyname.PetitBear.apk
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\styles.xml
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\values\colors.xml
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon.xml
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\icon.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\icon.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\icon.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\icon.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\icon.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\search.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\mipmap-hdpi\search1.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pow.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\stetuscope.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\dog.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\inject.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\settings.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\home.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\bone.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\medicine.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\pillow.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\certificate.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\doctor.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\filter.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\add.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\news.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\edit.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\tools.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\res\drawable\location.png
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.cs.flag
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\R.txt
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\uploadflags.txt
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\PetitBear.Android.dll
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Android.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\mscorlib.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\SQLite-net.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Core.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Data.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Numerics.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Transactions.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Mono.Security.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\SQLite-net.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Core.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Data.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\System.Web.Services.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\PetitBear.Android.dll.mdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

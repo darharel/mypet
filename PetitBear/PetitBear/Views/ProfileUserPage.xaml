@@ -1,0 +1,86 @@
+﻿<?xml    version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.ProfileUserPage">
+
+    <ContentPage.ToolbarItems>
+        <!--<ToolbarItem x:Name="myPetsToolBarItem" Icon="dog.png" Priority="0" Order="Secondary" />-->
+        <ToolbarItem x:Name="EditPetsToolBarItem" Icon="edit.png" Priority="1" Order="Primary" />
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout x:Name="MainLayout">
+
+            <Grid RowSpacing="0">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="AUTO"/>
+                    <RowDefinition Height="AUTO"/>
+                    <RowDefinition Height="AUTO"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="AUTO"/>
+                </Grid.RowDefinitions>
+
+                <!--Header Background-->
+                <Image Source="https://loremflickr.com/320/240" Aspect="AspectFill"/>
+
+                <!--Profile Name-->
+                <StackLayout Grid.Row="1" Padding="0,10,0,0" HorizontalOptions="CenterAndExpand">
+                    <Label Text="Dar Harel" Style="{StaticResource ProfileNameLabel}"/>
+                    <Label Text="From Tel Aviv" Style="{StaticResource ProfileTagLabel}"/>
+                </StackLayout>
+
+
+            </Grid>
+
+            <ActivityIndicator IsRunning="true" Color="Black" x:Name="Activityspinner"
+                                   VerticalOptions="Center" HorizontalOptions="Center"
+                                   RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.45}"
+                                   RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.45}" />
+
+            <StackLayout>
+                <ListView x:Name="PetsListView"      >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+
+                            <ViewCell>
+                                <StackLayout Padding="10" Spacing="20">
+                                    <StackLayout Orientation="Horizontal" >
+                                        <Image WidthRequest="70" HeightRequest="70" Source="{Binding imgURL}"/>
+                                        <StackLayout >
+                                            <Label Text="{Binding Name}" Style="{StaticResource StatsCaptionLabel}"/>
+                                            <Label Text="{Binding Age}" Style="{StaticResource NewsSmallLabel}" />
+                                        </StackLayout>
+                                        <StackLayout HorizontalOptions="EndAndExpand" WidthRequest="80" >
+                                            <Label Text="Likes" Style="{StaticResource StatsCaptionLabel}"/>
+                                            <Label Text="333" Style="{StaticResource StatsNumberLabel}"/>
+                                                 </StackLayout>
+                                    </StackLayout>
+                                    <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="{Binding imgURL}"/>
+                                </StackLayout>
+                            </ViewCell>
+                            
+                            
+                 
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+
+
+<!--           <TextCell Text="{Binding Name}">                                
+                                <TextCell.ContextActions>
+                                    <MenuItem 
+							Text="Delete" 
+							IsDestructive="true" 
+							Clicked="OnDeletePet"
+							CommandParameter="{Binding .}" />
+                                </TextCell.ContextActions>
+                            </TextCell>-->

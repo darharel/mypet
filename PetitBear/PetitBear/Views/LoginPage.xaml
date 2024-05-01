@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.LoginPage">
+    <ContentPage.Content>
+        <StackLayout x:Name="MasterLayout" >
+
+
+            <StackLayout x:Name="LogoStack" VerticalOptions="FillAndExpand">
+                <Label x:Name="Label_NoInternet" HorizontalTextAlignment="Center" TextColor="White" BackgroundColor="Red"></Label>
+                <Image x:Name="LoginIcon" Source="dog.png" Margin="0,80,0,0"/>
+            </StackLayout>
+
+            <StackLayout x:Name="LoginEntries" VerticalOptions="StartAndExpand" >
+            <!--<StackLayout.Padding>
+                    <OnIdiom x:TypeArguments="Thickness">
+                        <OnIdiom.Phone>40,0,40,0</OnIdiom.Phone>
+                        <OnIdiom.Tablet>40,0,40,0</OnIdiom.Tablet>
+                    </OnIdiom>
+                </StackLayout.Padding>-->
+
+                <ActivityIndicator x:Name="ActivitySpinner" Color="Red" IsRunning="true"/>
+
+                <Label x:Name="Label_Username" />
+                <Entry x:Name="Entry_Username"  Placeholder="Username" />
+                <Label x:Name="Label_Password" />
+                <Entry x:Name="Entry_Password"  Placeholder="Password" />
+                <Button x:Name="Button_Signin" Text="Sign in" Clicked="Button_Signin_Clicked"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

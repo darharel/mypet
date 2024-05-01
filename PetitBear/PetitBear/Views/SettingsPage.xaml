@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.SettingsPage">
+    <ContentPage.Content>
+        <TableView Intent="Settings">
+            <TableRoot>
+                <TableSection Title="Notifications">          
+                    <SwitchCell Text="When a Friend go out for a walk" On="True" OnChanged="SwitchCell_OnChanged" />
+                    <SwitchCell Text="When an Inspector is spotted giving fines" On="True" OnChanged="SwitchCell_OnChanged" />
+                    <SwitchCell Text="When another dog is lost" On="True" OnChanged="SwitchCell_OnChanged" />
+                </TableSection>
+
+                <TableSection Title="Privacy">
+                    <TextCell Text="Test" Detail="Dar Harel"/>
+                    <EntryCell Label="TEst111" Placeholder="HEyNiggah" />
+                    <SwitchCell Text="display my personal details" On="True" OnChanged="SwitchCell_OnChanged" />
+
+                </TableSection>
+
+                <TableSection>
+                    <TextCell Text="Log out" Tapped="LogOut_Tapped"/>
+                </TableSection>
+
+            </TableRoot>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>

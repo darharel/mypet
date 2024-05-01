@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.EditPetDetailsPage">
+
+    <TableView Intent="Form" x:Name="TableForm">
+        <TableRoot>
+            <TableSection Title="Name">
+                <EntryCell x:Name="entry_Name" Label="Name" Text="{Binding Name}" />
+                <EntryCell x:Name="entry_Age" Label="Age" Text="{Binding Age}" Keyboard="Numeric" />
+            </TableSection>
+            <TableSection Title="Contact">
+                <ViewCell>
+                    <Picker x:Name="Gender" Title="Gender" SelectedItem="{Binding Gender}">
+                        <Picker.Items>
+                            <x:String>Male</x:String>
+                            <x:String>Female</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </ViewCell>
+                <ViewCell>
+                    <Picker x:Name="Size" Title="Size of your Pet" SelectedItem="{Binding Size}">
+                        <Picker.Items>
+                            <x:String>Small</x:String>
+                            <x:String>Medium</x:String>
+                            <x:String>Big</x:String>
+                            <x:String>Giant</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </ViewCell>
+                <EntryCell x:Name="Color" Label="Color" Text="{Binding Color}" />
+            </TableSection>
+            <TableSection Title="Other">
+                <EntryCell x:Name="entry_Race" Label="Race" Text="{Binding Race}" />
+
+                <EntryCell x:Name="entry_weight" Label="Weight" Text="{Binding Weight}" Keyboard="Numeric" />
+
+            </TableSection>
+            <TableSection>
+                <ViewCell>
+                    <Button x:Name="Button_Save" Text="Save" />
+                </ViewCell>
+            </TableSection>
+        </TableRoot>
+    </TableView>
+</ContentPage>

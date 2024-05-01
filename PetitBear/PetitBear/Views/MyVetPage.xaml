@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.MyVetPage">
+    
+    <ContentPage.ToolbarItems>
+        <ToolbarItem x:Name="EditTollbarItem" Icon="edit.png" Priority="1" Order="Primary" />
+    </ContentPage.ToolbarItems>
+    
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" >
+            
+            <ActivityIndicator x:Name="Activityspinner" 
+                               IsRunning="true" 
+                               Color="Black"                               
+                               VerticalOptions="Center"
+                               HorizontalOptions="Center"
+                               RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=0.45}"
+                               RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=0.45}" />
+
+            <StackLayout x:Name="vetDetailStack">
+                <Label Text="Hello"/>
+                <Label x:Name="Label_VetName"  Text="{Binding Name}"/>
+                <Label x:Name="Label_VetPhone" Text="054-335-6755"/>
+                <Label x:Name="Label_Address"  Text="{Binding Address}"/>
+
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Next Visit:"/>
+                    <Label Text="{Binding NextVisit}"/>
+                    <DatePicker Date="1 Jan 2017" />
+                </StackLayout>
+            </StackLayout>
+
+
+            <StackLayout>
+                <ListView x:Name="TreatList" HasUnevenRows="True" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ViewCell.ContextActions>
+                                    <MenuItem
+                                        Text="Delete"
+                                        IsDestructive="true"
+                                        Clicked="MenuItem_Clicked"   
+                                        CommandParameter="{Binding .}" />
+                                </ViewCell.ContextActions>
+                                <StackLayout BackgroundColor="White" Orientation="Horizontal">
+                                    <Image WidthRequest="30" HeightRequest="30" Aspect="AspectFill" Source="{Binding ImageUrl}" />
+                                    <Image WidthRequest="30" HeightRequest="30" Aspect="AspectFill" Source="{Binding ImageUrl}" />
+                                    <StackLayout HorizontalOptions="StartAndExpand">
+                                        <Label Text="{Binding Name}" TextColor="#f35e20" />
+                                        <Label Text="{Binding Period}" TextColor="Gray" />
+                                        <Label Text="LastTaken: {Binding LastShot}"  HorizontalOptions="EndAndExpand" TextColor="#503026" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </StackLayout>
+        
+        
+
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PetitBear.Views.NewsPage"
+             >
+
+    <StackLayout>
+        <ContentView></ContentView>
+
+        <ListView x:Name="newsListView" 
+              HasUnevenRows="true"                
+              ItemsSource="{Binding Items}"
+              CachingStrategy="RecycleElement" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10" Spacing="20">
+                            <StackLayout Orientation="Horizontal" >
+                                <Image WidthRequest="70" HeightRequest="70" Source="{Binding imgURL}"/>
+                                <StackLayout >
+                                    <Label Text="{Binding From}" Style="{StaticResource StatsCaptionLabel}"/>
+                                    <Label Text="{Binding Description}" Style="{StaticResource NewsSmallLabel}" />
+                                </StackLayout>
+                                <StackLayout HorizontalOptions="EndAndExpand" WidthRequest="80" >
+                                    <Label Text="Likes" Style="{StaticResource StatsCaptionLabel}"/>
+                                    <Label Text="333" Style="{StaticResource StatsNumberLabel}"/>
+                                </StackLayout>
+                            </StackLayout>
+                            <Image HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Source="{Binding imgURL}"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+
+
+
+        <!--Custom View Cells-->
+        <!--
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ViewCell>
+          <StackLayout>
+            <Label Text="{Binding Text}" 
+                   Style="{DynamicResource ListItemTextStyle}" />
+            <Label Text="{Binding Detail}" 
+                   Style="{DynamicResource ListItemDetailTextStyle}"/>
+          </StackLayout>
+        </ViewCell>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+    -->
+
+    </StackLayout>
+</ContentPage>

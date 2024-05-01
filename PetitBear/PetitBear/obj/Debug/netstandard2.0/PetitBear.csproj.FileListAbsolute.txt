@@ -1,0 +1,45 @@
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.deps.json
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.dll
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csprojAssemblyReference.cache
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csproj.CoreCompileInputs.cache
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfoInputs.cache
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfo.cs
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.dll
+C:\Users\dar\Desktop\PetitBear-20180610T071508Z-001\111\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfo.cs
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.deps.json
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfo.cs
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.deps.json
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\0507 0.002\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.deps.json
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfo.cs
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\BackUps\17.07\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.deps.json
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\bin\Debug\netstandard2.0\PetitBear.pdb
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.AssemblyInfo.cs
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.dll
+C:\Users\user\Desktop\Latest\PetitBear\PetitBear\PetitBear\obj\Debug\netstandard2.0\PetitBear.pdb
